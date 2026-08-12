@@ -191,7 +191,7 @@ Two reusable glass effect classes:
 ## 🔐 Authentication
 
 ### **Demo Credentials**
-- **Email**: `demo@bellano.com`
+- **Email**: `naresh45@gmail.com`
 - **Password**: `demo123`
 
 ### **Features**
@@ -219,10 +219,10 @@ Two reusable glass effect classes:
 ## 🔗 Social Media & Contact
 
 ### **Integrated Links**
-- **Twitter**: `https://twitter.com`
-- **Instagram**: `https://instagram.com`
-- **LinkedIn**: `https://linkedin.com`
-- **Email**: `hello@bellano.com`
+- **Twitter**: `https://twitter.com/naresh45`
+- **Instagram**: `https://instagram.com/naresh45`
+- **LinkedIn**: `https://linkedin.com/narseh5`
+- **Email**: `naresh@gmail.com`
 
 All links open in new tabs with `rel="noopener noreferrer"` for security.
 
@@ -265,10 +265,6 @@ Update the gold accent color in:
 2. CSS variables in component styles
 3. Gradient definitions in glass classes
 
-### **Images**
-Replace placeholder images:
-- `https://images.unsplash.com/photo-...` → Your product images
-
 ### **Content**
 Edit product data in:
 - `Shop.jsx` - Product array
@@ -294,7 +290,7 @@ Google Fonts imports in `index.css`:
 
 ## 📝 License
 
-This project is proprietary. All rights reserved to BELLANO.
+This project is proprietary. All rights reserved to Naresh yadav.
 
 ---
 
@@ -331,9 +327,9 @@ This project is proprietary. All rights reserved to BELLANO.
 ## 📧 Support
 
 For inquiries or support:
-- **Email**: hello@bellano.com
+- **Email**: naresh@gmail.com
 - **Social**: @bellano on all platforms
 
 ---
 
-**Built with ❤️ by BELLANO Design Team**
+**Built with ❤️ by NARESH YADAV**
